@@ -33,9 +33,7 @@ python fake_news_model.py
 - Accuracy & loss plots
 - Classification report
 
-## 🔗 LinkedIn Hashtags
-#DataScience #FakeNewsDetection #DeepLearning #NLP #PythonProject
-=======
+
 # Fake-News-Detection-Project
 A Deep Learning project for Fake News Detection using LSTM and Natural Language Processing (NLP).
 # Fake News Detection Project 📰🧠
@@ -71,4 +69,11 @@ Model accuracy and loss graph plotted using Matplotlib.
 Model saved as: `fake_news_model.h5`
 
 
->>>>>>> 8c388b50e6a80478def1607794d924e8188ce131
+📌 Author
+Yogesh Pacharane
+
+Data Science Intern
+
+LinkedIn Profile ["www.linkedin.com/in/
+yogesh-pacharne-7b4737285"]
+
